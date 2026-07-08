@@ -1,0 +1,713 @@
+[
+  {
+    "id": 1,
+    "section": "Anatomie des Hundes",
+    "type": "single",
+    "question": "Wieviele Zähne hat der Hund i.d.R. im Milchgebiss (rassebedingte Abweichungen möglich)?",
+    "options": [
+      "28",
+      "24",
+      "32",
+      "34"
+    ],
+    "correct": [
+      0
+    ]
+  },
+  {
+    "id": 2,
+    "section": "Anatomie des Hundes",
+    "type": "single",
+    "question": "Mit durchschnittlich welchem Alter sollte der Zahnwechsel abgeschlossen sein (rassebedingte Abweichungen möglich)?",
+    "options": [
+      "mit 5 Monaten",
+      "mit 7 Monaten",
+      "mit 10 Monaten",
+      "mit 1 Jahr"
+    ],
+    "correct": [
+      1
+    ]
+  },
+  {
+    "id": 3,
+    "section": "Anatomie des Hundes",
+    "type": "multi",
+    "question": "Welche der folgenden Begriffe haben einen Herzbezug ?",
+    "options": [
+      "Körperkreislauf",
+      "Lugenkreislauf",
+      "Füllungsphase",
+      "Austreibungsphase"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "section": "Anatomie des Hundes",
+    "type": "multi",
+    "question": "Welche der genannten Begriffe gehören zum Ohr:",
+    "options": [
+      "Pinna",
+      "Amboss",
+      "Schnecke",
+      "Eustachische Röhre"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 5,
+    "section": "Anatomie des Hundes",
+    "type": "order",
+    "question": "Folge der Fließrichtung des Blutes durch das Herz",
+    "order": [
+      "Vena cava / Hohlvene",
+      "rechter Vorhof",
+      "Trikuspidalklappe",
+      "rechte Herzkammer",
+      "Pulmonalklappe",
+      "Lungenarterie",
+      "Lunge",
+      "Lungenvene",
+      "linker Vorhof",
+      "Mitralklappe",
+      "linke Herzkammer",
+      "Aortenklappe",
+      "Aorta / Hauptschlagader"
+    ],
+    "answerHtml": "<p>- Vena cava / Hohlvene</p>\n<p>- rechter Vorhof</p>\n<p>- Trikuspidalklappe</p>\n<p>- rechte Herzkammer</p>\n<p>- Pulmonalklappe</p>\n<p>- Lungenarterie</p>\n<p>- Lunge</p>\n<p>- Lungenvene</p>\n<p>- linker Vorhof</p>\n<p>- Mitralklappe</p>\n<p>- linke Herzkammer</p>\n<p>- Aortenklappe</p>\n<p>- Aorta / Hauptschlagader</p>"
+  },
+  {
+    "id": 6,
+    "section": "Anatomie des Hundes",
+    "type": "number",
+    "question": "In welche Abschnitte ist die Wirbelsäule unterteilt und wieviele Wirbel besitzt der Hund in der Regel in diesen Abschnitten (ohne Schwanz):",
+    "order": null,
+    "answerHtml": "<p>&nbsp;- Halswirbel = 7</p>\n<p>&nbsp;- Brustwirbel = 13</p>\n<p>&nbsp;- Lendenwirbel = 7 (6)</p>\n<p>&nbsp;- Kreuzbein = 3</p>"
+  },
+  {
+    "id": 7,
+    "section": "Anatomie des Hundes",
+    "type": "open",
+    "question": "Wodurch ist der Hund anatomisch / physiologisch als Beutegreifer erkennbar ?",
+    "order": null,
+    "answerHtml": "<ul><li>Zahnschema</li><li>die Muskulatur des Kiefers ermöglicht festes zupacken, aber kein Kauen im eigentlichen Sinne</li><li>sauerer Speichel, keine Verdauungsenzyme</li><li>einhöhliger Magen mit enormer Speicherkapazität, sehr niedriger pH-Wert</li><li>Dünn- und Dickdarm ohne Gärkammerfunktion, relativ kurz und verhältnismäßig glatt (Größenverhältnis Körper : Darm =1:6)</li><li>sehr aktiver Leberstoffwechsel</li><li>benötigt kein Vitamin C über die Nahrung</li><li>Urin eher sauer</li><li>Muskulatur und Wirbelsäule ermöglichen Jagd</li></ul>"
+  },
+  {
+    "id": 8,
+    "section": "sensorischen und motorischen Fähigkeiten",
+    "type": "multi",
+    "question": "Welche der folgenden Behauptungen sind korrekt:",
+    "options": [
+      "Hunde sehen ihre Umwelt immer in Grauabstufungen.",
+      "Die Sehschärfe des Hundes ist vermutlich geringer als beim Menschen und auf Bewegung optimiert.",
+      "Die horizontale Ausdehnung des Gesichtsfeldes des Hundes ist ein Drittel größer, der Bereich, in dem der Hund dreidimensional sehen kann, hingegen nur halb so groß wie beim Menschen.",
+      "Nach heutigen Erkenntnissen sehen Hunde Farben, sind aber rot-blau-blind."
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 9,
+    "section": "sensorischen und motorischen Fähigkeiten",
+    "type": "multi",
+    "question": "Bei der Wahl der Spielzeuge, der Gestaltung der Agilitygeräte oder sonstiger Hilfsmittel gibt es einiges zu beachten:",
+    "options": [
+      "Soll ein Hund orangenen Ball auf grüner Wiese suchen, wird er weniger seine Augen als seine Nase einsetzen.",
+      "Rot und gelb gestrichen Agility-Geräte sehen nett und freundlich aus und helfen den Wertungsrichter zu erkennen, ob der Hund die Kontaktflächen getroffen hat. Auch der Hund kann einen deutlichen Unterschied erkennen.",
+      "Rot und blau gestrichen Agility-Geräte sehen nett und freundlich aus und helfen den Wertungsrichter zu erkennen, ob der Hund die Kontaktflächen getroffen hat. Auch für den Hund ist eine deutliche Unterscheidung möglich.",
+      "Gelbe Hürden auf grüner Wiese sind für die Hunde eher schlecht auszumachen."
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 10,
+    "section": "sensorischen und motorischen Fähigkeiten",
+    "type": "multi",
+    "question": "Der Mensch kann Töne im Bereich von 20 – 20.000 Hz hören, wobei seine maximale Empfindlichkeit bereits im Bereich 2000 – 4000 Hz liegt. Was kann der Hund ?",
+    "options": [
+      "Hundeohren hören ähnlich wie menschliche Ohren, nur lauter. Man sollte also leise mit einem Hund sprechen.",
+      "Hundeohren sind auf hohe Frequenzen sensibilisiert, außerdem ist ihr wahrnehmbarer Tonumfang weitaus größer, als der des Menschen. Sinnvollerweise sollten wir also ggf. in einer höheren Tonlage mit unserem Hund sprechen.",
+      "Hundeohren können Töne im Bereich von 15 – 100.000 Hz wahrnehmen.",
+      "Hundeohren haben ihre maximale Empfindlichkeit 8000 Hz."
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 11,
+    "section": "sensorischen und motorischen Fähigkeiten",
+    "type": "open",
+    "question": "Hunde haben eine erheblich feinere olfaktorische Wahrnehmung als der Mensch – warum ?",
+    "order": null,
+    "answerHtml": "<p>- Die Größe desr Riechschleimhaut und damit auch die Anzahl der Riechzellen unterliegt zwar deutlichen Rasseunterschieden, ist beim Hund aber deutlich größer als beim Menschen.</p>\n<p>- Beim Menschen gibt es rund 400 unterschiedliche molekulare Geruchsrezeptoren, beim Hund sind insgesamt mehr als 1000 verschiedene Rezeptortypen ausgebildet&nbsp;</p>\n<p>- Schäferhunde haben z.Beispiel eine um den Faktor 100 feinere Erkennungsschwelle, um einen bestimmten Stoff identifizieren zu können.</p>\n<p>- Das Riechhirn des Hundes ist deutlich größer.</p>\n<p>- Durch die schnellen kurzen Atemzüge der Hunde können die Riechzellen bis zu 300 Mal in der Minute mit neuen Geruchspartikeln versorgt werden.</p>\n<p>- Da die Nase (ähnlich wie beim Sehen) rechts und links differenzieren kann, können Hunde „Stereo“ riechen. Auf diese Weise ist der Hund fähig, die Richtung einer Spur zu beurteilen.</p>"
+  },
+  {
+    "id": 12,
+    "section": "sensorischen und motorischen Fähigkeiten",
+    "type": "open",
+    "question": "Ist der Makrosmat (griechisch „Großriecher“) Hund dem „Mikrosmaten“ („Geringriecher“) Mensch immer überlegen ?",
+    "order": null,
+    "answerHtml": "<p>- Nein, denn inzwischen weiß man, dass die Riechleistung der Primaten für manche Düfte die von Hunden übertreffen kann. So sind Hunde zwar ausgesprochen empfindlich für den Geruch von Fettsäuren (Beuteschweiß), reagieren aber im Vergleich zu manchen Primaten unempfindlicher gegenüber Fruchtdüften.</p>"
+  },
+  {
+    "id": 13,
+    "section": "sensorischen und motorischen Fähigkeiten",
+    "type": "open",
+    "question": "Warum kann der Hund besonders gut in der Dämmerung sehen ?",
+    "order": null,
+    "answerHtml": "<p>- Das Auge des Hundes enthält wie bei allen Säugetieren zwei verschiedene Lichtrezeptoren: Während die Stäbchen&nbsp; für das Sehen von Graustufen zuständig sind, ermöglichen die Zapfen bei ausreichender Beleuchtung das Farbsehen. Die Stäbchen sind sehr viel zahlreicher und lichtempfindlicher als die Zapfen. Bei Hunden ist (wie auch bei den meisten anderen Säugetieren, aber nicht beim Menschen) zusätzlich der<strong><u> Augenhintergrund&nbsp; „verspiegelt“. </u></strong>Diese<strong><u> </u></strong><a href=\"http://de.wikipedia.org/wiki/Tapetum_lucidum\">Tapetum lucidum</a>&nbsp; genannte Schicht reflektiert einfallendes Licht, so dass es ein weiteres Mal auf die Stäbchen trifft. Hunde können in der Dämmerung daher sehr viel besser sehen als Menschen.</p>"
+  },
+  {
+    "id": 14,
+    "section": "Fortpflanzung (Verhalten Rüden/Hündin, Zyklus, Trächtigkeit, Geburt)",
+    "type": "multi",
+    "question": "Wie lange dauerte durchschnittlich die Trächtigkeit bim Hund?",
+    "options": [
+      "Vom Zeitpunkt der Ovulation (des Eisprungs) an im Durchschnitt 63 Tage.",
+      "Vom Decktermin ausgehend genau 63 Tage.",
+      "Von der Standhitze an",
+      "Viele Hündinnen werfen zwischen dem 59. und 63. Tag, be manchen dauert es aber bis zum 67. Tag."
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 15,
+    "section": "Fortpflanzung (Verhalten Rüden/Hündin, Zyklus, Trächtigkeit, Geburt)",
+    "type": "multi",
+    "question": "Welche der folgenden Aussagen sind korrekt?",
+    "options": [
+      "Die Embryonen liegen perlschnurartig in der Gebärmutter der Hündin.",
+      "Die Gebärmutter der Hündin hat einen kleinen Körper und zwei lange Hörner.",
+      "Jede Hündin durchläuft die Phase der Scheinschwangerschaft / Scheinmutterschaft, allerdings kann dies auch still und unauffällig verlaufen.",
+      "Nur wenige Hündinnen werden scheinschwanger, welche in jedem Fall behandelt werden muss."
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": 16,
+    "section": "Fortpflanzung (Verhalten Rüden/Hündin, Zyklus, Trächtigkeit, Geburt)",
+    "type": "multi",
+    "question": "Mit welchem Alter werden Hunde geschlechtsreif ?",
+    "options": [
+      "Hunde sind generell mit 1 Jahr geschlechtsreif.",
+      "Im Durchschnitt kommen Rüden zwischen dem 5. und 8. Lebensmonat in die Pubertät.",
+      "In der Regel erfolgt die erste Läufigkeit, wenn 2/3 des endgültigen Körpergewichtes erreicht sind.",
+      "Je nach Körpergröße mit 12-24 Monaten."
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 17,
+    "section": "Fortpflanzung (Verhalten Rüden/Hündin, Zyklus, Trächtigkeit, Geburt)",
+    "type": "multi",
+    "question": "Welchen Aussagen sind korrekt ?",
+    "options": [
+      "Der optimale Deckzeitpunkt für den ersten Deckversuch ist der erste oder zweite Tag nach der Ovulation. Der zweite Deckversuch soll bis zum 4. Tag nach der Ovulation erfolgen.",
+      "Bei einer unerwünschten Paarung können Rüde und Hündin jederzeit ohne Risiko getrennt werden.",
+      "Zur gefürchteten Gebärmuttervereiterung (Pyometra) kommt es im Metöstrus.",
+      "Die Läufigkeit der Hündin („Hitze“) dauert im Durchschnitt 3 Wochen."
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 18,
+    "section": "Fortpflanzung (Verhalten Rüden/Hündin, Zyklus, Trächtigkeit, Geburt)",
+    "type": "open",
+    "question": "Wie läuft der Deckakt ab ?",
+    "order": null,
+    "answerHtml": "<p style=\"text-align:justify;\">Die gewöhnlich zwei Tage vor dem Eisprung einsetzende Deckbereitschaft (Östrus) der Hündin ist eine wichtige Voraussetzung für den Paarungsverlauf. Der eigentlichen Paarung geht ein mehr oder weniger intensives Vorspiel voraus. In dieser Zeit beschnuppern sich Rüde und Hündin und \"werben\" auf spielerische Art umeinander. Nach dieser ersten Phase besteigt der Rüde die Hündin und führt seinen Penis ein. Bei der Hündin werden dadurch reflexartige Kontraktionen der Scheiden- und Gebärmuttermuskulatur ausgelöst, die den Transport der Samenzellen unterstützen. Da der Penisknochen den vorderen Abschnitt des Penis stabilisiert, kann der Rüde ihn in nur teilweise erigiertem Zustand einführen. Die vollständige Erektion wird erst in der Vagina der Hündin erreicht. Dabei entfaltet sich die Eichel maximal.<br>Der hintere Teil der Eichel, der sogenannte \"Knoten\" (Bulbus glandis), dient der festen Verankerung von Rüde und Hündin und der \"Abdichtung\" der Scheide. Der Rüde gibt im Verlauf des Paarungsaktes nacheinander drei verschiedene Flüssigkeiten (sogenannte &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ejakulatfraktionen) ab. Der erste wässrige Anteil (sog. Vorsekret) wird zum großen Teil schon während der Suchphase, also zwischen dem Aufsprung des Rüden und dem Einführendes Penis, abgespritzt.Sobald die vollständige Erektion der in die Scheide eingeführten Eichel erreicht ist, wird die spermienreiche Fraktion des&nbsp; Ejakulates abgegeben. Währenddessen oder kurz danach steigt der Rüde seitlich mit &nbsp;&nbsp; den Vorderläufen von der &nbsp;&nbsp; Hündin und dreht sich um, wobei er einen Hinterlauf &nbsp; über den Rücken der Hündin führt. So stehen Rüde und Hündin schließlich mit den Köpfen in entgegengesetzter Richtung und \"hängen\" mit dem Hinterteil (aufgrund des &nbsp; noch angeschwollenen Bulbus glandis) aneinander. Dieser Part der Paarung dauert im Durchschnitt 15 Minuten, möglich sind aber auch wenige Minuten bis über eine Stunde.Während des Hängens gibt der Rüde spermienarmes bzw. spermienfreies Prostatasekret ab. Dieses dient dazu, die Samenzellen in die Gebärmutter zu spülen. Dauer insgesamt: im Durchschnitt wenige Minuten bis 1 Stunde.</p>"
+  },
+  {
+    "id": 19,
+    "section": "Fortpflanzung (Verhalten Rüden/Hündin, Zyklus, Trächtigkeit, Geburt)",
+    "type": "open",
+    "question": "Wodurch kann eine Trächtigkeit bestätigt werden?",
+    "order": null,
+    "answerHtml": "<p style=\"text-align:justify;\">- Geburt der Welpen</p>\n<p style=\"text-align:justify;\">- ab dem 28. Tag der Trächtigkeit kann im Blut der Hündin der Anstieg des Hormons Relaxin nachgewiesen werden</p>\n<p style=\"text-align:justify;\">- Ultraschalluntersuchung ab dem 18., besser dem&nbsp; 25. Tag der Trächtigkeit</p>\n<p style=\"text-align:justify;\">- Röntgenuntersuchungen sind erst ab dem 45. Tag sinnvoll (besser 50. Tag)</p>"
+  },
+  {
+    "id": 20,
+    "section": "Fortpflanzung (Verhalten Rüden/Hündin, Zyklus, Trächtigkeit, Geburt)",
+    "type": "open",
+    "question": "Nenne die einzelnen Abschnitte des Zykluses bei der Hündin und ihre jeweilige Zeitdauer.",
+    "order": null,
+    "answerHtml": "<h3 style=\"text-align:justify;\">Proöstrus oder Vorbrunst:</h3>\n<p style=\"text-align:justify;\">Es handelt sich um die erste Phase der Läufigkeit. In dieser Zeit schwillt die Scham (Vulva) an und es besteht blutiger Scheidenausfluss (Aufbaublutung). Der Ausfluss kann in seiner Menge variieren - von sehr wenig bis stark. Während mit zunehmender Dauer des Proöstrus die Vulva mehr anschwillt, nimmt der blutige Ausfluss ab. An den Eierstöcken reifen zahlreiche Eizellen in Follikeln heran. <u>Die Dauer des Proöstrus kann zwischen 3 und 20 Tagen schwanken</u>. Typisch ist, dass die Hündin in dieser Zeit schon attraktiv für Rüden ist und diese auch \"animiert\" (d. h. besonders kontakt- und spielfreudig auf Rüden reagiert), sich aber noch nicht decken lässt. Sowohl die Veränderungen an den Geschlechtsorganen als auch im Verhalten der Hündin sind auf den Einfluss des Follikelhormons Östrogen zurückzuführen.</p>\n<h3 style=\"text-align:justify;\">Östrus oder Brunst:</h3>\n<p style=\"text-align:justify;\"><u>Diese Zyklusphase dauert 1-10 Tage</u> und ist von der Deckbereitschaft der Hündin geprägt. Auf entsprechende Reize zeigt die Hündin reflexartiges Seitwärtsstellen der Rute sowie ein Eindrücken des Rückens (Lordose) und sie bleibt \"stehen\". Will man unerwünschten Nachwuchs vermeiden, so sollte man sie jetzt ganz besonders gut \"im Auge\" behalten.<br><u>Gewöhnlich kommt es etwa zwei Tage nach dem Einsetzen der Paarungsbereitschaft zum Eisprung (= Ovulation)</u>. In Abhängigkeit von den damit einhergehenden hormonellen Veränderungen geht die Schwellung der Scham allmählich zurück. Der Scheidenausfluss verändert sich typischerweise von \"blutähnlich\" zu \"fleischwasserähnlich\" (leicht rosa bis farblos).</p>\n<p style=\"text-align:justify;\">Proöstrus und Östrus werden zusammen als Läufigkeit oder Hitze bezeichnet. <u>Beide zusammen dauern im Durchschnitt 3 Wochen. </u></p>\n<h3 style=\"text-align:justify;\">Metöstrus:</h3>\n<p style=\"text-align:justify;\">Man spricht auch von Diöstrus. Dieser Zyklusabschnitt ist durch sogenannte Gelbkörper am Eierstock der Hündin gekennzeichnet. Deren Bildung hat bereits während der Läufigkeit, nämlich mit dem Eisprung, begonnen. Wie bereits erwähnt, bilden sie das Hormon Progesteron, welches nach der ggf. stattgefundenen Befruchtung für die Aufrechterhaltung einer Trächtigkeit sorgt. Progesteron wird aber auch bei der nicht tragenden Hündin gebildet. <u>Die Gelbkörperphase dauert, ähnlich wie die Trächtigkeit, etwa zwei Monate. </u></p>\n<p style=\"text-align:justify;\">Eine Besonderheit des Hundes ist, dass die Gelbkörperphase bei trächtigen und nicht trächtigen Hündinnen nahezu gleich lang ist. Die Trächtigkeit ist quasi ein Teil des Zyklus. <u>Nicht tragende und tragende Hündinnen sind demzufolge hormonell gleichgeschaltet, was erklärt, dass es in diesem Stadium zu einer klinisch mehr oder weniger stark ausgeprägten Scheinträchtigkeit kommen kann. </u></p>\n<h3 style=\"text-align:justify;\">Anöstrus:</h3>\n<p style=\"text-align:justify;\">Die Dauer dieser Zyklusphase ist sehr variabel und bestimmt damit die Variabilität der Läufigkeitsintervalle. <u>Bei der Mehrzahl der Hündinnen beträgt sie 2-3 Monate. Aber auch ein Anöstrus von 6 Monaten ist nicht ungewöhnlich</u>. Nach dem Abbau der Gelbkörper findet eine tief greifende Regeneration der Gebärmutterschleimhaut statt (Dauer ca. 2-2,5 Monate). Erst dann ist die Gebärmutterschleimhaut wieder intakt und aufgrunddessen wieder in der Lage, auf hormonelle Signale der Eierstöcke in der nächsten Läufigkeit normal zu reagieren. Ist die Regeneration der Gebärmutterschleimhaut aus irgendeinem Grund gestört (z. B. durch Entzündungen oder Hormonbehandlungen), kann es zu schweren Erkrankungen der Gebärmutter und Fruchtbarkeitsstörungen kommen. Im Anöstrus ist die Hündin sexuell inaktiv, deshalb spricht man auch von der Phase sexueller Ruhe. Nach Abschluss des Anöstrus setzt die nächste Läufigkeit ein.</p>"
+  },
+  {
+    "id": 21,
+    "section": "Verletzungen, Erste Hilfe, Notfallmaßnahmen",
+    "type": "multi",
+    "question": "Sinnvolle Maßnahmen bei Epilepsie:",
+    "options": [
+      "potentiell gefährliche Einrichtungsgegenstände wegräumen bzw. den Hund wegziehen.",
+      "Gegenstand zwischen die Zähne schieben.",
+      "In sicherer Entfernung (v.a. Kinder und andere Haustiere) den Patienten beobachten, dabei den Zeitverlauf im Auge haben.",
+      "Die direkte körperliche Nähe eines anderen Hundes hilft dem Patienten, sich schneller zu beruhigen, zumal Hunde einen epileptischen Anfall bei einem anderen Hund sowieso nicht als beunruhigend empfinden."
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 22,
+    "section": "Verletzungen, Erste Hilfe, Notfallmaßnahmen",
+    "type": "multi",
+    "question": "Typische Notfälle in der Tierarztpraxis, bei denen eine sofortige Behandlung durch einen Tierarzt, ggf. sogar eine sofortige Operation, innerhalb kürzester Zeit notwendig sind. (stabilisierende Maßnahmen sind hier nicht gemeint):",
+    "options": [
+      "Gebärmuttervereiterung (Pyometra)",
+      "Magendrehung",
+      "geschlossene Fraktur",
+      "tiefere Wunden"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 23,
+    "section": "Verletzungen, Erste Hilfe, Notfallmaßnahmen",
+    "type": "multi",
+    "question": "Vergiftungen:",
+    "options": [
+      "Vergiftungen haben immer typische Symptome, so dass der Tierarzt immer sofort weiß, womit er es zu tun hat.",
+      "Die meisten Vergiftungen finden im eigenen Haushalt / Garten / Garage statt.",
+      "Hat der Hund etwas gefressen, dass vergiftet sein könnte, sollte man sofort reagieren und dem Hund Milch oder Öl zu trinken geben.",
+      "Sichern Sie etwas von der Substanz, mit der das Tier in Berührung kam oder die Verpackung, Beipackzettel etc. und rufen Sie sobald als möglich Ihren Tierarzt oder eine Tierklinik an."
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 24,
+    "section": "Verletzungen, Erste Hilfe, Notfallmaßnahmen",
+    "type": "multi",
+    "question": "Bei einem Schock gilt...",
+    "options": [
+      "Wird ein Schockzustand festgestellt, müssen alle anderen Verletzungen vorläufig ignoriert werden.",
+      "Bei jedem verletzten oder erkrankten Tier besteht die Möglichkeit einer Schockentwicklung.",
+      "Nehmen Sie den Hund in den Arm, um ihn zu beruhigen",
+      "Strecken Sie den Kopf, öffnen Sie ggf. den Fang und ziehen Sie die Zunge hervor."
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "id": 25,
+    "section": "Verletzungen, Erste Hilfe, Notfallmaßnahmen",
+    "type": "open",
+    "question": "ERSTE-HILFE-Leistungen beim Hund - Nennen Sie allgemeine, sinnvolle Maßnahmen:",
+    "order": null,
+    "answerHtml": "<p>&nbsp;- Sicherheit aller beteiligten Personen und des Hundes selber durch Anleinen und Festbinden an einem festen Gegenstand sowie ggf. dem Anlegen einer Maulschlinge.</p>\n<p>- Verhinderung weiterer Schäden</p>\n<p>- Überprüfung der Vitalparameter</p>\n<p>- Erkennen des eigentlichen Problems (Verletzung, Blutung, Insektenstich etc.)</p>\n<p>- Erstversorgung des erkannten Problems</p>\n<p>- telefonischer Kontakt mit dem Tierarzt</p>\n<ol><li>Was ist passiert?</li><li>Bei Giftaufnahme Reste / Verpackung sichern und mitnehmen.</li><li>Medikamente ? Vorerkrankungen ? (falls bekannt)</li><li>Aufgetriebener Leib ?</li><li>Durchfall / Erbrechen ?</li><li>Zungen- bzw.Schleimhautfarbe ?</li><li>Offene Verlettungen / Blutungen ?</li><li>Atmet das Tier ? Wie (normal, angestrengt, mit Geräuschen)?</li><li>Ist Patient bei Bewußtsein ? Ansprechbar ? Läuft noch ?</li></ol>\n<p>- Mit dem Tierarzt den Transport sowie flankierende Maßnahmen besprechen.</p>\n<p>- Ruhig bleiben !!!</p>"
+  },
+  {
+    "id": 26,
+    "section": "Verletzungen, Erste Hilfe, Notfallmaßnahmen",
+    "type": "open",
+    "question": "Was bedeutet TAPS ?",
+    "order": null,
+    "answerHtml": "<p>- Bei einer ERSTE-HILFE-Maßnahme müssen ggf. die Körper-<strong><u>T</u></strong>emperatur, immer aber <strong><u>A</u></strong>tmung, <strong><u>P</u></strong>uls und die <strong><u>S</u></strong>chleimhautfarbe überprüft werden.</p>"
+  },
+  {
+    "id": 27,
+    "section": "Verletzungen, Erste Hilfe, Notfallmaßnahmen",
+    "type": "open",
+    "question": "Um wichtige Information wie Atem- oder Pulsfrequenz in einer Krise einorden zu können, muss man die Normalwerte eines Hundes in Ruhe kennen:",
+    "order": null,
+    "answerHtml": "<p>- Körpertemperatur: 38-39 °C</p>\n<p>- Atemfrequenz/Minute: ca. 30-50 Atemzüge bei kleinen Hunden und Welpen, bei großen Hunden ca. 20-30</p>\n<p>- Pulsfrequenz/Minute: bei großen Hunden ca. 80 Schläge/Minute, ca. 80-120 Schläge bei kleinen Hunden und Welpen</p>\n<p>- Schleimhaut: rosa</p>"
+  },
+  {
+    "id": 28,
+    "section": "wichtigen Infektionskrankheiten (z. B. Staupe, Parvovirose etc.)",
+    "type": "multi",
+    "question": "Leishmaniose ….",
+    "options": [
+      "Die übertragenden Mücken wurden auch in Deutschland bereits nachgewiesen, so dass eine endemische Ausbreitung in manchen Regionen im deutschsprachigen Raum nicht auszuschließen ist.",
+      "Die Viruserkrankung wird durch Sandmücken übertragen.",
+      "Ist eine Zoonose – Mit Leishmanien infizierte Hunde gelten als das wesentliche Erregerreservoir für Leishmania-Infektionen bei Menschen und Hunden in Südeuropa, Nordafrika, Asien und das tropische Südamerika.",
+      "Die Inkubationszeit kann zwei Monate bis Jahre dauern. Ob und wann ein infizierter Hund erkranken wird, ist schwer vorherzusagen."
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 29,
+    "section": "wichtigen Infektionskrankheiten (z. B. Staupe, Parvovirose etc.)",
+    "type": "multi",
+    "question": "Leptospirose ...",
+    "options": [
+      "ist eine Zoonose",
+      "Die Infektion erfolgt durch direkten Kontakt mit erkrankten Tieren.",
+      "Klinisch treten immer schwere Leber- und Nierensymptome und blutige Gastroenteritiden auf.",
+      "In einer retrospektiven Studie wurde bei 70 % der an Leptospirose erkrankten Hunde Lungenveränderungen festgestellt, von Hunden mit schwerer Atemnot und Blutungen überlebte nur ein Drittel die Erkrankung."
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 30,
+    "section": "wichtigen Infektionskrankheiten (z. B. Staupe, Parvovirose etc.)",
+    "type": "multi",
+    "question": "Parvovirose",
+    "options": [
+      "Bei Raumtemperatur bleibt das Virus über ein Jahr infektiös, die meisten handelsüblichen Desinfektionsmittel vermögen ihn nicht zu bekämpfen.",
+      "Drei bis zwölf Wochen alte Hunde sterben häufig an der Infektion, ohne dass es vorher zur Ausprägung klinischer Symptome gekommen ist. Die Ursache liegt in einem akuten Organversagen infolge des Befalls des Darms.",
+      "Am empfänglichsten für die Erkrankung sind Welpen im Alter von 2 bis 16 Wochen und alte Hunde.",
+      "das canine Parvovirus ist eng mit der Katzenschnupfen-Virus verwandt."
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 31,
+    "section": "wichtigen Infektionskrankheiten (z. B. Staupe, Parvovirose etc.)",
+    "type": "multi",
+    "question": "Canine Anaplasmose",
+    "options": [
+      "Anaplasmose ist in Deutschland sehr selten und daher zu vernachlässigen.",
+      "Die Symptome von Borreliose und Anaplasmose sind sich ähnlich, daher sollten bei Verdacht auf beide Erkrankungen getestet werden.",
+      "Als Überträger für Anaplasma phagocytophilum fungiert die Braune Hundezecke.",
+      "Typisch ist eine Blutungsneigung aufgrund der Abnahme der Thrombozyten, dies tritt in 80 % der Fälle auf."
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 32,
+    "section": "wichtigen Infektionskrankheiten (z. B. Staupe, Parvovirose etc.)",
+    "type": "open",
+    "question": "Was wissen Sie über Zwingerhusten?",
+    "order": null,
+    "answerHtml": "<p>- Multifaktorenerkrankung - Zwingerhusten-Komplex</p>\n<p>- auch als <em>infektiöse Tracheobronchitis</em> bekannte Erkrankung der oberen Atenwege</p>\n<p>-&nbsp; verschiedene Viren und Bakterien beteiligt</p>\n<ul><li>Viren: can. Parainfluenzavirus Typ 2, can. Adenovirus Typ 2, can. Herpesvirus, can. Reovirus</li><li>Bakterium:&nbsp; Bordetella bronchiseptica, Mykoplasmen</li></ul>\n<p>- Übertragung erfolgt über die Luft oder als Tröpfcheninfektion</p>\n<p>- Inkuionszeit je nach Erreger 4-10 Tage</p>\n<p>- Ein Infekt mit einem einzelnen Erregertyp löst i.d.R eher leichte Erkrankungen aus, Infekte mit mehreren viralen und bakteriellen Erreger zusammen führen meist zu einer&nbsp; schweren Verlaufsform.</p>\n<p>- Typisch:&nbsp; „bellender“ trockener Husten, der jedoch später durch Schleimproduktion auch produktiv sein kann.</p>\n<p>- es nicht zwingend erforderlich, dass der Hund ständig hustet - es kann durchaus auch sein, dass er nur bei Belastung oder beim Laufen, Toben oder Spielen einige Male auftritt.</p>\n<p>- Weitere mögliche Symptome Fieber, Rachenentzündung, Mandelentzündung und Tracheobronchitis, Schnupfen, eitrige Bindehautentzündung,</p>\n<p>- Lungenentzündung möglich</p>"
+  },
+  {
+    "id": 33,
+    "section": "wichtigen Infektionskrankheiten (z. B. Staupe, Parvovirose etc.)",
+    "type": "open",
+    "question": "Nennen Sie mögliche Symptome der Staupe:",
+    "order": null,
+    "answerHtml": "<p>- hohes Fieber, Apathie, Anorexie</p>\n<p>- akute Durchfälle und heftiges Erbrechen</p>\n<p>- Niesen und Husten, Atemgeräusche, Schnupfen</p>\n<p>- Bindhautentzündung</p>\n<p>- Sehnervschäden, Netzhautveränderungen, Blindheit</p>\n<p>- Parese, Ataxie</p>\n<p>- Kopfschiefhaltung</p>\n<p>- Ausfall von Hirnnerven</p>\n<p>- Augenzittern (Nystagmus)</p>\n<p>- überschießende Bewegungen (Hypermetrie)</p>\n<p>- epileptiforme Anfälle</p>\n<p>- Depression</p>\n<p>- rhythmisches Muskelzittern („Staupetick“)</p>\n<p>&nbsp;- hard pad disease (Hyperkeratosen an Ballen und Nasenspiegel)</p>\n<p>- Old Dog Encephalitis<strong><u> </u></strong>(als Spätfolge einer Staupeinfektion)</p>"
+  },
+  {
+    "id": 34,
+    "section": "wichtigen Infektionskrankheiten (z. B. Staupe, Parvovirose etc.)",
+    "type": "open",
+    "question": "Warum sollten auch heute noch unsere deutschen Hunde gegen Tollwut geimpft werden ?",
+    "order": null,
+    "answerHtml": "<p>- Kontakt zu tollwuterkrankten Importhunden bzw. Reisebegleithunden jederzeit möglich</p>\n<p>- Kontakt zu erkrankten Wildtieren möglich</p>\n<p>- Fledermaustollwut</p>\n<p>- im Krisenfall eindeutig besserer rechtlicher Status – ungeimpfte Tiere werden eingezogen und ggf. getötet ohne Möglichkeit eines Einspruches.</p>\n<p>- Impfung ist Vorschrift bei Grenzübertritt</p>"
+  },
+  {
+    "id": 35,
+    "section": "Impfungen und Gesundheitsprophylaxe",
+    "type": "single",
+    "question": "Welche der folgenden Aussagen sind nach der Ständige Impfkommission Vet. korrekt?",
+    "options": [
+      "Die Grundimmunisierung von Welpen ist mit der Impfung im 4. Lebensmonat abgeschlossen.",
+      "Die Grundimmunisierung von Welpen ist mit der Impfung im 12. Lebensmonat abgeschlossen.",
+      "Die Grundimmunisierung von Welpen ist mit der Impfung im 15. Lebensmonat abgeschlossen.",
+      "Die Grundimmunisierung von Welpen ist mit der Impfung im 24. Lebensmonat abgeschlossen."
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "id": 36,
+    "section": "Impfungen und Gesundheitsprophylaxe",
+    "type": "single",
+    "question": "Wie viele Tollwutimpfungen sieht die Ständige Impfkommission Vet. für die Grundimmunisierung von Welpen vor ?",
+    "options": [
+      "eine",
+      "zwei",
+      "drei",
+      "vier"
+    ],
+    "correct": [
+      2
+    ]
+  },
+  {
+    "id": 37,
+    "section": "Impfungen und Gesundheitsprophylaxe",
+    "type": "multi",
+    "question": "Welche Maßnahmen wären im Sinne einer guten Gesundheitsprophylaxe?",
+    "options": [
+      "Eine individuelle Zusammenstellung von Impfungen und Parasitenkontrolle.",
+      "Regelmäßige Wurmkuren sind schädlich für den Darm und sollten daher unterbleiben",
+      "jährlicher Blutcheck",
+      "Eine Ernährung, die die individuellen Bedürfnisse des Hunds deckt."
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 38,
+    "section": "Impfungen und Gesundheitsprophylaxe",
+    "type": "multi",
+    "question": "Sinnvolle Maßnahmen für den älteren Hund:",
+    "options": [
+      "Gewichtskontrolle",
+      "Hormonkontrolle",
+      "extra leckeres Futter",
+      "weniger Bewegung , da ältere Hunde mehr Schlaf benötigen"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 39,
+    "section": "Impfungen und Gesundheitsprophylaxe",
+    "type": "open",
+    "question": "Wenn Hunde sog. Reisebegleithunde sind bzw. aus dem Süden nach Deutschland importiert werden, sollten sie sich einer Gesundheitskontrolle inkl. Bluttests auf sog. Mittelmeerkrankheiten unterziehen. Welche Krankheiten sind hiermit gemeint?",
+    "order": null,
+    "answerHtml": "<p>- Dirofilarien (Herzwurm)</p>\n<p>- Mikrofilarien</p>\n<p>- Leishmaniose</p>\n<p>- Ehrlichiose</p>\n<p>- Babesiose</p>\n<p>- Hepatozoonose</p>\n<p>- Anaplasmose</p>\n<p>- auch möglich: Borreliose, Neosporose, Toxoplasmose, Rickettsiose, Brucellose</p>"
+  },
+  {
+    "id": 40,
+    "section": "Impfungen und Gesundheitsprophylaxe",
+    "type": "open",
+    "question": "Nach den Impfempfehlungen der Ständigen Impfkommission Vet. gibt es CORE und NON-CORE-Impfungen. Nennen Sie die die Unterschiede und jeweils Krankheitsbeispiele.",
+    "order": null,
+    "answerHtml": "<p>- CORE</p>\n<p>Core-Komponenten der Vakzinen richten sich gegen Erreger, gegen die jedes Tier zu jeder Zeit geschützt sein muss.</p>\n<p>HCC, Leptospirose, Parvovirose, Staupe, (Tollwut)</p>\n<p>&nbsp;- NON-CORE</p>\n<p>&nbsp; Non-Core-Komponenten der Vakzinen richten sich gegen Erreger, gegen die Tiere nur &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; unter besonderen Umständen (wahrscheinliche Expositionen) geschützt werden &nbsp;&nbsp; müssen.</p>\n<p>&nbsp;Zwingerhusten (Bordetella bronchiseptica, &nbsp;Canines Parainfluenzavirus), Canines &nbsp;&nbsp; Herpesvirus, Impfung gegen Hautpilze</p>\n<p>(Dermatophytose, Mikrosporie, Trichophytie), Borreliose, Tetanus </p>"
+  },
+  {
+    "id": 41,
+    "section": "Impfungen und Gesundheitsprophylaxe",
+    "type": "open",
+    "question": "Zeckenprophylaxe oder Borrelioseimpfung – was ist sinnvoller ?",
+    "order": null,
+    "answerHtml": "<p>- Borrelioseimpfung schützt nur gegen einige wenige Borrelienstämme.</p>\n<p>- häufigere Impfreaktion</p>\n<p>- wiegt den Besitzer ggf. in falscher Sicherheit</p>\n<p>- eine korrekt durchgeführte Zeckenprophylaxe schützt vor vielen Krankheiten</p>"
+  },
+  {
+    "id": 42,
+    "section": "Endo- und Ektoparasiten",
+    "type": "multi",
+    "question": "Welche Aussagen sind falsch ?",
+    "options": [
+      "Würmer haben nur Welpen, erwachsene Hunde haben keine Würmer.",
+      "Der Welpe kann sich bereits im Mutterleib oder später über die Muttermilch mit Würmern infizieren.",
+      "Infektiöse Spulwurmeier kann der Hund nur durch Kot aufnehmen.",
+      "Eine Ansteckung mit dem Fuchsbandwurm kann man durch die Verfütterung von frischem Rohfleisch sicher ausschließen."
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 43,
+    "section": "Endo- und Ektoparasiten",
+    "type": "multi",
+    "question": "Welche Krankheiten können Zecken durch ihre Blutmahlzeit zur Zeit hier in Deutschland auf den Hund übertragen?",
+    "options": [
+      "Anaplasmose",
+      "Babesiose",
+      "FSME",
+      "Ehrlichiose"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 44,
+    "section": "Endo- und Ektoparasiten",
+    "type": "multi",
+    "question": "Was wissen Sie über Zecken?",
+    "options": [
+      "Ein Befall findet in der Regel im Freien statt: Auf Gräsern und in Gebüschen finden sich Zeckenstadien, die von Hund und Katze abgestreift werden. Eine Übertragung von einem Tier zu Tier ist möglich, aber eher selten. In bestimmten Fällen ist auch ein Befall innerhalb von Räumen wie Zwingern, Tierheimen ja sogar in der Wohnung möglich. In diesen Fällen ist eine Zeckenbekämpfung äußerst schwierig.",
+      "Zecken beißen.",
+      "Nur erwachsene Zeckenweibchen benötigen Blut und daher stellen auch nur diese ein Risiko dar.",
+      "Äußere Bedingungen wie Luftfeuchtigkeit, Temperatur, Sonneneinstrahlung etc. sind wichtig für den Verbreitungsgrad der Zecken und ihre Anzahl."
+    ],
+    "correct": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 45,
+    "section": "Endo- und Ektoparasiten",
+    "type": "multi",
+    "question": "Um welche Erkrankung handelt es sich vermutlich ?",
+    "options": [
+      "Flohbefall",
+      "Flohspeicheldermatitis",
+      "Demodikose",
+      "Sarkoptes-Milben-Befall"
+    ],
+    "correct": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 46,
+    "section": "Endo- und Ektoparasiten",
+    "type": "open",
+    "question": "Je nachdem, wie das Tier gehalten und ernährt wird, ist das Risiko für einen Befall mit diesen Parasiten unterschiedlich groß. Idealerweise sollten sich die Maßnahmen zum Schutz an dem jeweiligen Risiko orientieren und daher individuell abgestimmt werden.",
+    "order": null,
+    "answerHtml": "<p>Man unterscheidet hierzu Hunde mit geringem Risiko, Hunde mit mittlerem Risisko und Hunde mit hohem anhaltenden Risisko. Wie würden Sie diese drei Unterscheidungen definieren?</p>\n<p>- geringes Risiko: kein freier Auslauf, kein Kontakt zu anderen Tieren</p>\n<p>- mittleres Risisko: Auslauf unter Aufsicht, Kontakt zu anderen Tieren</p>\n<p>- hohes anhaltendes Risisko: freier Auslauf ohne Aufsicht, Tierheime, Zuchten, Haushalte mit mehreren Tieren, Jagdhunde, Barf-Hunde, Welpen, Kotfressen, Aasfressen</p>"
+  },
+  {
+    "id": 47,
+    "section": "Endo- und Ektoparasiten",
+    "type": "open",
+    "question": "Die gesundheitliche Beeinträchtigung durch Wurmbefall wird vielfach unterschätzt. Nennen Sie Gefahren und gesundheitliche Folgen.",
+    "order": null,
+    "answerHtml": "<p>&nbsp;- Veränderungen von Blutparametern (z.B. weißes Blutbild, Leberwerte)</p>\n<p>&nbsp;- Spul-, Haken- und Bandwürmer können aber auch in Magen und Darm des Hundes zu Schäden führen und vor allem bei Welpen und Junghunden zu Problemen wie Durchfall, Erbrechen oder einer gestörten Nährstoffverwertung führen. Die Folgen können Wachstumsstörungen, stumpfes Fell, schuppige Haut und andere Mangelerkrankungen sein. Bei sehr starkem Befall kann es sogar zum Tod betroffener Welpen kommen.</p>\n<p>- Zoonoseerrreger: Nimmt ein Mensch z. B. infektiöse Eier bestimmter Spulwurmarten auf, kann es zu einer Wanderung der Larven in Gewebe und Organe des Menschen kommen, wodurch Nervenbahnen, Auge und/oder Gehirn Schaden nehmen können. Auch bestimmte Bandwürmer des Hundes können auf den Menschen übertragen werden. Infolge dessen kann es beim Menschen zu einer gefährlichen Zystenbildung in der Leber und/oder anderen Organen kommen, die aufwändig behandelt werden müssen und sogar bereits zum Tod betroffener Personen geführt haben.</p>"
+  },
+  {
+    "id": 48,
+    "section": "Endo- und Ektoparasiten",
+    "type": "open",
+    "question": "Was wissen Sie über Flöhe?",
+    "order": null,
+    "answerHtml": "<p>&nbsp;- Flöhe sind in Deutschland das ganze Jahr über aktiv. Im Frühjahr und Sommer haben sie auch im Freien Hochsasion, in Herbst und Winter fühlen sie sich besonders in beheizten Wohnräumen wohl.</p>\n<p>- Flöhe sind flügellose, seitlich abgeplattete, blutsaugende Insekten, die durch die Haut stechen und Blut saugen.</p>\n<p>- Auf dem Körper von Hund und Katze finden sich nur die erwachsenen Flöhe. Diese legen Eier, aus denen sich Larven und Puppen und schließlich neue Flöhe entwickeln.</p>\n<p>-&nbsp; Diese Eier, Larven und Puppen befinden sich jedoch nicht auf dem Tier, sondern in dessen Umwelt, vor allem an Schlaf-, Liege- und Lieblingsplätzen, in Teppichen oder im Auto.</p>\n<p>- Bei den Maßnahmen zum Schutz von Hunden und Katzen vor Flöhen müssen daher – vor allem bei stärkerem Befall oder wiederholtem Auftreten – nicht nur die erwachsenen Flöhe auf Hund und Katze, sondern auch die Eier und Larven in deren Umgebung bekämpft werden.</p>\n<p>- Flöhe können außerdem Erreger anderer Krankheiten auf Hunde und Katzen übertragen, z. B. den Gurkenkernbandwurm oder den Erreger der Katzenkratzkrankheit. In beiden Fällen können auch Menschen angesteckt werden.</p>"
+  },
+  {
+    "id": 49,
+    "section": "häufigen Erkrankungen (Bewegungsapparat, Stoffwechselerkrankungen, altersbedingte Einschränkungen etc.)",
+    "type": "multi",
+    "question": "Osteoarthose",
+    "options": [
+      "Osteoarthrose ist eine chronische, degenerative Knochenerkrankung, wodurch Bewegungen eingeschränkt und schmerzhaft werden.",
+      "Osteoarthose muss immer chirurgisch behandelt werden.",
+      "Verursacht wird eine Osteoarthose durch Übergewicht, Überbelastung, Unfall, Entwicklungsbedingte Defekte, fehlerhafte Gliedmaßenstellung und / oder genetische Prädispositionen",
+      "Da der Hund unter schmerzen leidet, sollte die Bewegung eingeschränkt werden."
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 50,
+    "section": "häufigen Erkrankungen (Bewegungsapparat, Stoffwechselerkrankungen, altersbedingte Einschränkungen etc.)",
+    "type": "multi",
+    "question": "Diabetes mellitus",
+    "options": [
+      "Die Anfangssymptome sind Abmagerung trotz verstärkter Nahrungsaufnahme, vermehrter Durst und vermehrter Harnabsatz.",
+      "ist keine Folgeerkrankung zu anderen hormonellen Störungen wie Cushing oder einer Schilddrüsenunterfunktion.",
+      "Die Therapie sollte durch ein sog. Home Monitoring unterstützt werden.",
+      "der canine Diabetes mellitus ist meist gut mit Tabletten behandelbar"
+    ],
+    "correct": [
+      0,
+      2
+    ]
+  },
+  {
+    "id": 51,
+    "section": "häufigen Erkrankungen (Bewegungsapparat, Stoffwechselerkrankungen, altersbedingte Einschränkungen etc.)",
+    "type": "multi",
+    "question": "Herz",
+    "options": [
+      "Abgeborene Herzerkrankungen sind beim Hund immer tödlich.",
+      "Beim Hund kann Husten auf eine Herzerkrankung hin deuten.",
+      "An einer sog. Dilatative Kardiomyopathie – einer Erkrankung des Herzmuskels – erkranken fast ausschließlich Hunde großer Rassen.",
+      "Herzgeräusche sind beim Hund normal und haben nichts mit Herzerkrankungen zu tun."
+    ],
+    "correct": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 52,
+    "section": "häufigen Erkrankungen (Bewegungsapparat, Stoffwechselerkrankungen, altersbedingte Einschränkungen etc.)",
+    "type": "multi",
+    "question": "Futterallergie",
+    "options": [
+      "Eine Umstellung von einem kommerziellem Futter auf ein anderes ist eine geeignete Maßnahme für die Diagnose einer Futterallergie.",
+      "Die Futterallergie stellt bei Hunden die dritthäufigste Allergie dar.",
+      "Reis wird auch von allergischen Hunden immer vertragen.",
+      "bei Futterallergien sind die tierischen und pflanzlichen Eiweißbestanteile im Futter die Auslöser der Reaktion."
+    ],
+    "correct": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 53,
+    "section": "häufigen Erkrankungen (Bewegungsapparat, Stoffwechselerkrankungen, altersbedingte Einschränkungen etc.)",
+    "type": "open",
+    "question": "Nenne Sie typische geriatrische Erkrankungen beim Hund:",
+    "order": null,
+    "answerHtml": "<p>- Herz-Kreislauferkrankungen</p>\n<p>- Erkrankungen des Bewegungsapparates</p>\n<p>- verschlechterte Organfunktion insbesondere von Leber und Niere</p>\n<p>- Zahnprobleme</p>\n<p>- hormonelle Probleme</p>\n<p>- Neigung zu Krebserkrankung</p>\n<p>- geriatrisches Vestibulärsyndrom (wird häufig mit einem \"Schlaganfall\" verwechselt)</p>\n<p>- Prostataprobleme</p>\n<p>- Übergewicht</p>\n<p>- chron. Schmerzen</p>\n<p>- Inkontinenz</p>\n<p>- Augenerkrankungen</p>\n<p>- Magen-Darmerkrankungen</p>"
+  },
+  {
+    "id": 54,
+    "section": "häufigen Erkrankungen (Bewegungsapparat, Stoffwechselerkrankungen, altersbedingte Einschränkungen etc.)",
+    "type": "open",
+    "question": "Nennen Sie Schmerzenanzeichen beim Hund",
+    "order": null,
+    "answerHtml": "<p>Schreien, Jaulen, vermehrtes Gähnen, Hecheln, Ducken, hochgezogener Bauch, Rute klemmen ohne Angstauslöser,zurückziehen, ist plötzlich anhänglicher als sonst, reagiert auffällig aggressiv oder auffällig ängstlich, streckt sich nach vorne oder nach hinten, schmatzt, Bauchgrummeln, würgt, ist müde, sabbert, vergrösserte Pupillen, lichtempfindlich, macht verkürzte Schritte, o-beiniger Gang, riecht anders als sonst aus dem Maul oder an der Haut, Fell verliert Glanz und wird an Stellen struppig, Haarverlust, Schuppen, verstärkter Tränenfluss, blinzeln, schnelle und verstärkte Atmung, kann schwer aufstehen und kommt erst nach einigen Schritten in Gang, auffälliger Gang in langsamer Gangart oder auch in schneller, Kopfnicken im Gehrhythmus, Kopfwippen im Gehrhythmus, Kopf tief getragen beim Gehen, Kopf hoch getragen beim Gehen, Lecken oder Knabbern an bestimmten Gelenken oder an Ersatzstelle, Muskelzucken, Hautzucken,&nbsp; Berührungsempfindlichkeit, Fieber, Unterkühlung, Teilnahmslosigkeit, Hyperaktivität, reibt mit dem Kopf am Boden oder an der Wand, kratzt immer wieder eine Stelle - z.B. am Kiefer oder Ohr, große Verfressenheit, viel trinken, langes Verharren in der Spielhaltung und individuell andere ..</p>"
+  },
+  {
+    "id": 55,
+    "section": "häufigen Erkrankungen (Bewegungsapparat, Stoffwechselerkrankungen, altersbedingte Einschränkungen etc.)",
+    "type": "open",
+    "question": "Welche gesundheitlichen Folgen hat Übergewicht beim Hund ?",
+    "order": null,
+    "answerHtml": "<p><strong>- </strong>Organverfettung, v.a. Leber und Herz</p>\n<p>- Herz-Kreislauferkrankungen</p>\n<p>- Eingeschränkte Atemkapazität, schnellere Ermüdung, starkes hecheln</p>\n<p>- Erkrankungen des Verdauungssystems, Darmeinengung, Darmatonie, Verstopfung</p>\n<p>- Erkrankung der Bauchspeicheldrüse</p>\n<p>- Ausbildung eines Diabetes mellitus,&nbsp; übermäßiges Körperfett die Insulinempfindlichkeit reduziert</p>\n<p>- Degenerative Erkrankungen der Gelenke (Osteoarthrose), Kreuzbandrisse</p>\n<p>- Bluthochdruck (Hypertonie)</p>\n<p>- Eingeschränkte Diagnostikmöglichkeiten von bildgebenden Verfahren mit zunehmender Stärke der Fettschichte</p>\n<p>- Häufiger Komplikationen bei Narkosen und Operationen</p>\n<p>- Hitzeintoleranz</p>\n<p>- Höhere Tumorneigung</p>\n<p>- Größere Empfänglichkeit für Infektionskrankheiten</p>\n<p>- Hautkrankheiten</p>\n<p>- Harnsteine</p>\n<p>- verringertes Wohlbefinden</p>\n<p>- verglichen mit normalgewichtigen Artgenossen verkürzte Lebenserwartung</p>\n<p>- weitaus häufiger Behandlungen wegen chronischer Erkrankungen / Behandlung sind früher erforderlich</p>\n<p>- es besteht eine Abhängigkeit zwischen der Dauer des Übergewichtes und dem Ausmaß der Schäden<br><br><br>&nbsp;</p>"
+  }
+]

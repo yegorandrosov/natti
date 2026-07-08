@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fragenkatalog Medizin – Hundemedizin Quiz</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐕</text></svg>" />
+</head>
+<body>
+  <div class="app">
+    <header class="topbar">
+      <div class="brand">
+        <span class="logo">🐕</span>
+        <span>Fragenkatalog&nbsp;Medizin</span>
+      </div>
+      <div id="hud" class="hud" hidden>
+        <span class="hud-item" id="hudProgress">–</span>
+        <span class="hud-item timer" id="hudTimer">00:00</span>
+      </div>
+    </header>
+
+    <!-- ============ START ============ -->
+    <main id="screen-start" class="screen active">
+      <div class="card hero">
+        <h1>Prüfungstraining Hundemedizin</h1>
+        <p class="sub">Übe den Fragenkatalog mit Multiple-Choice-, Reihenfolge-, Zahlen- und offenen Fragen. Die Fragen werden bei jedem Start neu gemischt.</p>
+
+        <div class="field">
+          <label class="field-label">Modus</label>
+          <div class="options-grid" id="modeGroup">
+            <label class="pick selected">
+              <input type="radio" name="mode" value="immediate" checked />
+              <span class="pick-title">Antwort nach jeder Frage</span>
+              <span class="pick-desc">Sofort sehen, ob richtig oder falsch.</span>
+            </label>
+            <label class="pick">
+              <input type="radio" name="mode" value="end" />
+              <span class="pick-title">Antworten am Ende</span>
+              <span class="pick-desc">Erst nach Abschluss des Tests auswerten.</span>
+            </label>
+          </div>
+        </div>
+
+        <div class="field">
+          <label class="field-label" for="countSelect">Anzahl der Fragen</label>
+          <select id="countSelect"></select>
+        </div>
+
+        <button class="btn btn-primary btn-lg" id="startBtn">Test starten</button>
+      </div>
+    </main>
+
+    <!-- ============ QUIZ ============ -->
+    <main id="screen-quiz" class="screen">
+      <div class="progressbar"><span id="progressFill"></span></div>
+      <div class="card" id="questionCard"><!-- filled by JS --></div>
+      <div class="quiz-actions">
+        <button class="btn btn-ghost" id="revealBtn" hidden>Antwort anzeigen</button>
+        <button class="btn btn-primary" id="checkBtn" hidden>Prüfen</button>
+        <button class="btn btn-primary" id="nextBtn" hidden>Weiter</button>
+      </div>
+    </main>
+
+    <!-- ============ RESULTS ============ -->
+    <main id="screen-results" class="screen">
+      <div class="card">
+        <h1 class="results-title">Ergebnis</h1>
+        <div class="score-ring-wrap">
+          <div class="score-ring" id="scoreRing">
+            <div class="score-ring-inner">
+              <span class="score-pct" id="scorePct">0%</span>
+              <span class="score-frac" id="scoreFrac">0 / 0</span>
+            </div>
+          </div>
+        </div>
+        <div class="stats-row">
+          <div class="stat stat-ok"><span id="statCorrect">0</span><small>richtig</small></div>
+          <div class="stat stat-bad"><span id="statWrong">0</span><small>falsch</small></div>
+          <div class="stat"><span id="statTime">00:00</span><small>Zeit</small></div>
+        </div>
+        <p class="hint" id="pendingHint" hidden>Bewerte die offenen Fragen unten selbst, um dein Ergebnis zu vervollständigen.</p>
+        <div class="review-toolbar">
+          <h2>Durchsicht</h2>
+          <div class="seg" id="filterSeg">
+            <button data-filter="wrong" class="active">Nur falsche</button>
+            <button data-filter="all">Alle</button>
+          </div>
+        </div>
+        <div id="reviewList" class="review-list"></div>
+        <button class="btn btn-primary btn-lg" id="restartBtn">Neuer Test</button>
+      </div>
+    </main>
+
+    <footer class="foot">Lernhilfe · keine Speicherung von Ergebnissen</footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

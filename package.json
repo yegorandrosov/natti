@@ -1,0 +1,20 @@
+{
+  "name": "tierarzt-quiz",
+  "version": "1.0.0",
+  "description": "Fragenkatalog Medizin - Trainingsquiz für die Hundemedizin-Prüfung",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "parse": "node parse.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
